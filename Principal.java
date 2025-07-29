@@ -1,5 +1,5 @@
-package AulaModulo2.AulaCincoEx.br.com.alura.minhasmusicas;
-import AulaModulo2.AulaCincoEx.br.com.alura.minhasmusicas.modelos.*;
+package AulaModulo2;
+import AulaModulo2.modelos.*;
 
 
 public class Principal {

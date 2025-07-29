@@ -22,11 +22,12 @@ O sistema simula a reprodução de **músicas** e **podcasts**, permitindo repro
 
 ```
 src/
- ├─ modelos/
- │   ├─ Audio.java
- │   ├─ Musica.java
- │   └─ Podcast.java
- └─ Principal.java
+└─AulaModulo2/
+   ├─ modelos/
+   │   ├─ Audio.java
+   │   ├─ Musica.java
+   │   └─ Podcast.java
+   └─ Principal.java
 ```
 
 ## Como rodar

@@ -1,4 +1,4 @@
-package AulaModulo2.AulaCincoEx.br.com.alura.minhasmusicas.modelos;
+package AulaModulo2.modelos;
 
 public class Podcast extends Audio{
     private String apresentador;
